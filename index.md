@@ -4,3 +4,5 @@
 #### I earned two gitlab badges
 ##### I have an assessment tomorrow
 ###### I have thursday prep
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
